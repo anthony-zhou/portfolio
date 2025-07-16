@@ -1,3 +1,3 @@
 # Anthony Zhou's portfolio site
 
-A website featuring my projects and experience.
+A website featuring my projects and experience. Deployed using Netlify. 
